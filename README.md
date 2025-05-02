@@ -11,7 +11,7 @@ Can also be used to check remote sites.
 ./seo-check.py test-rabbit-page.html
 ./seo-check.py example.com
 ```
-![seo-check-screenshot](seo-check-screenshot.webp)
+![seo-check-screenshot](seo-check-screenshot.png)
 
 
 - Note: Expects you have have metakeywords. 
